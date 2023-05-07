@@ -1,13 +1,18 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="400"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/-mail.yandex%20-yellowgreen" alt="ВКонтакте"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-Archick-K&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDEwYWUwYmUzZWQ2NTg0MWViZjI3MDFmZjNkZjFhZDBiOWM5ZTM3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
 <!--
 **Archik-K/Archik-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
