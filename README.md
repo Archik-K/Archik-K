@@ -12,7 +12,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDEwYWUwYmUzZWQ2NTg0MWViZjI3MDFmZjNkZjFhZDBiOWM5ZTM3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="450" height="300"/>
+</div>
 
+### :woman_technologist: About Me :
+I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <!--
 **Archik-K/Archik-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
