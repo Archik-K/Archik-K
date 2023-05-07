@@ -3,6 +3,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="400"/>
 </div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/-mail.yandex%20-yellowgreen" alt="ВКонтакте"/>
+  </a>
+</div>
 <!--
 **Archik-K/Archik-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
