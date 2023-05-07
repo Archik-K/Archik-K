@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="100"/>
+</div>
 <!--
 **Archik-K/Archik-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
