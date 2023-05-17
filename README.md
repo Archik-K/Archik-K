@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="400"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/Arina_Kryatova">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
