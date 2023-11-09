@@ -1,16 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=5005&pause=1017&color=C07BF7&vCenter=true&random=false&width=1000&height=117&lines=Welcome+To+Arina+Kryatova+Github+Profile...)](https://git.io/typing-svg)
+
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDEwYWUwYmUzZWQ2NTg0MWViZjI3MDFmZjNkZjFhZDBiOWM5ZTM3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>
- 
    
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="400"/>
-  <div id="badges">
+</p>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Arina</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-</div>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
   
- 
-</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="450" height="300"/>
 </div>
