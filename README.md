@@ -8,7 +8,7 @@
   <div id="badges">
 
 </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-Archick-K&style=flat-square&color=blue" alt=""/>
+  
  
 </div>
 <div align="center">
