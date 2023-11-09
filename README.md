@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="450" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
