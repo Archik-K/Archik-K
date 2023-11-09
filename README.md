@@ -9,10 +9,7 @@
   <a href="https://t.me/Arina_Kryatova">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-Archick-K&style=flat-square&color=blue" alt=""/>
- 
-</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="450" height="300"/>
 </div>
