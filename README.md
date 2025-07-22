@@ -4,7 +4,7 @@
    
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ0bDV5emNtMXcyb2wxMDd6dWxzanhsMm1oazh0YWRpcnl6bHNsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="400"/>
 </p>
-<h1 align="center">Hi there, I'm <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNnaGYxOHpmZDl3ZHBiNWNheml3NDU2azg5MnJsY3IyMnFhanZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FQxpCWS4ZyvNFCTKHJ/giphy.gif" target="_blank">Arina</a> 
+<h1 align="center">Hi there, I'm Arina <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNnaGYxOHpmZDl3ZHBiNWNheml3NDU2azg5MnJsY3IyMnFhanZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FQxpCWS4ZyvNFCTKHJ/giphy.gif" width="40"
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">Passionate Problem Solver & Tech Enthusiast...</h3>
