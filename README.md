@@ -2,7 +2,7 @@
 
 <p align="center">
    
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ0bDV5emNtMXcyb2wxMDd6dWxzanhsMm1oazh0YWRpcnl6bHNsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="400"/>
 </p>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Arina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
